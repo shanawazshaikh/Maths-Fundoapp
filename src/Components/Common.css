@@ -1,0 +1,24 @@
+.tabnav{
+    text-decoration: none;
+}
+.img{
+    text-align: center;
+}
+.numh4{
+    background-color: darkorange;
+    color: black;
+    border-radius: 5px;
+    padding-left: 8px;
+    position: relative;
+    bottom: 8px;
+}
+.tabnav1{
+    position: relative;
+    left: 20px;
+    text-decoration: none;
+}
+.tabnav2{
+    position: relative;
+    left: 10px;
+    text-decoration: none;
+}
